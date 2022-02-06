@@ -1,0 +1,4 @@
+# 計算機網絡蛇遊戲
+Computer_Network_Test3_final為server端，exSnake_final為client端
+藉由Listen、Send、Receive等串接client遊戲端所有過程與server端
+加以獲取相關訊息
